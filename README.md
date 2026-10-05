@@ -417,8 +417,8 @@ Backup copy of the same click-through as a plain HTML page, in case Figma is dow
 
 ## Stakeholder Demo
 
-See instructions. Delete this line and place a link to the deck The Slide Machine generated during your presentation here, after you have presented.
-
+* [Generated slide deck](https://theslidemachine.com/d/untitled-23b2c524)
+* [Recorded demo](https://drive.google.com/file/d/1LAmA76tiIZcntYFAi5zq9ooB3ZyogpM_/view?usp=sharing)
 ## Exit Ticket
 
-See instructions. Delete this line and place a link to the exit-ticket quiz you generated from your demo deck and distributed to the class, along with a short note on what — if anything — you had to correct in the generated questions before publishing.
+* [Exit ticket quiz](https://docs.google.com/forms/d/e/1FAIpQLSecNVSDyQymAAdv-oCcyd5D-unaGXXQovK15xpeFIq0oiVAOA/viewform)
